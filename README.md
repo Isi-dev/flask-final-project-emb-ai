@@ -1,1 +1,1 @@
-# Repository for final project
+# Repository for Flask project
